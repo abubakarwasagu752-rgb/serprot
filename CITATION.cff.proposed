@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Thermal adaptation spares the catalytic neighbourhood in bacterial serine proteases"
+abstract: "Analysis pipeline for a study of where on a protein fold thermal adaptation acts. Across 10,674 bacterial and archaeal serine proteases in 1,485 sequence clades, compositional adaptation to growth temperature is absent within about 10 angstroms of the catalytic serine and present in a size- and burial-matched control patch on the same protein."
+authors:
+  - family-names: "Surname"
+    given-names: "A.B."
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/serprot"
+keywords:
+  - protein thermostability
+  - serine protease
+  - protein language model
+  - structural bioinformatics
+  - extremozymes
+date-released: "2026-11-07"
+version: "1.0.0"

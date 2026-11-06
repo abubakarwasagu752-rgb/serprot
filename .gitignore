@@ -1,0 +1,27 @@
+# Data: gigabytes, and redistributed from their own sources rather than from here.
+# DERIVED_INVENTORY.tsv in any freeze snapshot records what was present and when.
+data/
+freeze/
+*.tar
+*.tar.gz
+*.npy
+
+# Run output other than the analysis tables, which are the paper's numbers and are kept.
+runs/*
+!runs/analysis/
+logs/
+nohup.out
+
+# Test harnesses generate whole synthetic project roots; those are output, not source.
+tests/synth_*/
+tests/*/data/
+tests/*/runs/
+tests/*/figures/
+tests/*/tables/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/

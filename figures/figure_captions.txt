@@ -1,0 +1,7 @@
+Figure 1. Thermal adaptation is absent from the catalytic neighbourhood. (a) Within-clade change in each descriptor per +10 degrees C of optimal growth temperature, pocket minus matched control, in units of that descriptor's own within-clade standard deviation; bars are 95 per cent cluster-bootstrap intervals over clades. (b) The same contrast at pocket radii of 6, 8 and 10 A. (c) AlphaFold models against ESMFold models of sequences AlphaFold does not cover.
+
+Figure 2. The gradient is continuous and is not an exposure effect. (a) Within-clade slope of each distance shell's mean ESM-2 attribution on growth temperature, with 95 per cent intervals; the dashed line is the matched control patch. (b, c) The same slopes computed inside terciles of solvent exposure taken within each protein.
+
+Figure 3. Flexibility from an elastic network model. (a) Within-clade slope of relative C-alpha fluctuation on growth temperature by distance shell. (b) Each compositional pocket-minus-control difference against the 95 per cent interval of the flexibility difference (shaded), on the same proteins and clades. (c) S1, the one family in which flexibility separates pocket from control, on both structure sets.
+
+Figure 4. The evidence is bacterial. Pocket minus matched control per +10 degrees C in each domain, with 95 per cent cluster-bootstrap intervals. The archaeal arm rests on 88 clades and resolves nothing either way.

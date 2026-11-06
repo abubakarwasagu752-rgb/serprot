@@ -1,0 +1,14 @@
+torch>=2.2
+transformers>=4.40
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+biopython
+pyyaml
+requests
+matplotlib
+tqdm
+# external binary (optional, strongly recommended for real runs): mmseqs2
+#   conda install -c bioconda mmseqs2     (or `module load mmseqs2`)

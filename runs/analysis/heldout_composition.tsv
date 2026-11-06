@@ -1,0 +1,3 @@
+partition	proteins	clusters_30pct	clades_50pct	S8	S9	S1	thermophiles	pct_thermophile	ogt_median	ogt_min	ogt_max
+training	36370	2652	8992	15589	17291	3490	1350	3.7	30.0	4.0	105.0
+held-out test	8738	665	2256	3851	4080	807	321	3.7	29.0	5.0	106.0

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="222.281575pt" height="342.007481pt" viewBox="0 0 222.281575 342.007481" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-07T04:42:38.917408</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 342.007481 
+L 222.281575 342.007481 
+L 222.281575 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.912441 83.671513 
+L 220.841575 83.671513 
+L 220.841575 55.807549 
+L 31.912441 55.807549 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 143.770945 83.671513 
+L 143.770945 55.807549 
+" clip-path="url(#pbeea5cc17b)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #5a5a5a; stroke-width: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <defs>
+       <path id="m9f0a962233" d="M 0 0 
+L 0 2.2 
+" style="stroke: #1a1a1a; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m9f0a962233" x="35.756171" y="83.671513" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- $\mathdefault{−1.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(29.321171 94.10369)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+        <tspan x="7.410889" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m9f0a962233" x="89.763558" y="83.671513" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- $\mathdefault{−0.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(83.328558 94.10369)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="7.410889" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m9f0a962233" x="143.770945" y="83.671513" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(139.220945 94.10369)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m9f0a962233" x="197.778332" y="83.671513" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- $\mathdefault{0.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(193.228332 94.10369)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- $\times\mathdefault{10^{−2}}\mathdefault{}$ -->
+     <g style="fill: #1a1a1a" transform="translate(205.601575 103.63161)">
+      <text>
+       <tspan x="0" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">×</tspan>
+       <tspan x="3.503906" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+       <tspan x="6.84082" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       <tspan x="10.233242" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+       <tspan x="12.685977" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">2</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="m2aa8532601" d="M 0 0 
+L -2.2 0 
+" style="stroke: #1a1a1a; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="63.406812" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="65.772901" transform="rotate(-0 26.212441 65.772901)">Bacteria</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="76.07225" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="78.438339" transform="rotate(-0 26.212441 78.438339)">Archaea</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 71.647041 63.406812 
+L 107.663541 63.406812 
+" clip-path="url(#pbeea5cc17b)" style="fill: none; stroke: #0072b2; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 44.942036 76.07225 
+L 207.811979 76.07225 
+" clip-path="url(#pbeea5cc17b)" style="fill: none; stroke: #d55e00; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_8">
+    <defs>
+     <path id="m013bbcb9a8" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #0072b2"/>
+    </defs>
+    <g clip-path="url(#pbeea5cc17b)">
+     <use xlink:href="#m013bbcb9a8" x="89.321838" y="63.406812" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <defs>
+     <path id="m46b58fac7f" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #d55e00"/>
+    </defs>
+    <g clip-path="url(#pbeea5cc17b)">
+     <use xlink:href="#m46b58fac7f" x="125.576869" y="76.07225" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 31.912441 83.671513 
+L 31.912441 55.807549 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 31.912441 83.671513 
+L 220.841575 83.671513 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="31.912441" y="52.807549" transform="rotate(-0 31.912441 52.807549)">IVYWREL fraction</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 31.912441 142.185837 
+L 220.841575 142.185837 
+L 220.841575 114.321873 
+L 31.912441 114.321873 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 138.039611 142.185837 
+L 138.039611 114.321873 
+" clip-path="url(#p94b8c3a74d)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #5a5a5a; stroke-width: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m9f0a962233" x="81.282689" y="142.185837" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- $\mathdefault{−5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(77.545189 152.618014)">
+       <text>
+        <tspan x="0" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m9f0a962233" x="138.039611" y="142.185837" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- $\mathdefault{0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(136.219611 152.618014)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m9f0a962233" x="194.796532" y="142.185837" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- $\mathdefault{5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(192.976532 152.618014)">
+       <text>
+        <tspan x="0" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- $\times\mathdefault{10^{−3}}\mathdefault{}$ -->
+     <g style="fill: #1a1a1a" transform="translate(205.601575 162.145934)">
+      <text>
+       <tspan x="0" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">×</tspan>
+       <tspan x="3.503906" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+       <tspan x="6.84082" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       <tspan x="10.233242" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+       <tspan x="12.685977" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">3</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="121.921136" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="124.287225" transform="rotate(-0 26.212441 124.287225)">Bacteria</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="134.586574" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="136.952663" transform="rotate(-0 26.212441 136.952663)">Archaea</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 162.319409 121.921136 
+L 207.811979 121.921136 
+" clip-path="url(#p94b8c3a74d)" style="fill: none; stroke: #0072b2; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_4">
+    <path d="M 44.942036 134.586574 
+L 170.795004 134.586574 
+" clip-path="url(#p94b8c3a74d)" style="fill: none; stroke: #d55e00; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_16">
+    <g clip-path="url(#p94b8c3a74d)">
+     <use xlink:href="#m013bbcb9a8" x="185.040282" y="121.921136" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <g clip-path="url(#p94b8c3a74d)">
+     <use xlink:href="#m46b58fac7f" x="112.105091" y="134.586574" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 31.912441 142.185837 
+L 31.912441 114.321873 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 31.912441 142.185837 
+L 220.841575 142.185837 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="31.912441" y="111.321873" transform="rotate(-0 31.912441 111.321873)">Polar fraction</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 31.912441 200.700161 
+L 220.841575 200.700161 
+L 220.841575 172.836197 
+L 31.912441 172.836197 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 131.603475 200.700161 
+L 131.603475 172.836197 
+" clip-path="url(#pb15407dd08)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #5a5a5a; stroke-width: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m9f0a962233" x="78.879363" y="200.700161" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- $\mathdefault{−0.4}$ -->
+      <g style="fill: #1a1a1a" transform="translate(72.444363 211.132338)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="7.410889" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">4</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m9f0a962233" x="131.603475" y="200.700161" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(127.053475 211.132338)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m9f0a962233" x="184.327588" y="200.700161" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- $\mathdefault{0.4}$ -->
+      <g style="fill: #1a1a1a" transform="translate(179.777588 211.132338)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">4</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_5">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="180.43546" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="182.801549" transform="rotate(-0 26.212441 182.801549)">Bacteria</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="193.100898" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="195.466987" transform="rotate(-0 26.212441 195.466987)">Archaea</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_5">
+    <path d="M 84.408342 180.43546 
+L 116.592359 180.43546 
+" clip-path="url(#pb15407dd08)" style="fill: none; stroke: #0072b2; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_6">
+    <path d="M 44.942036 193.100898 
+L 207.811979 193.100898 
+" clip-path="url(#pb15407dd08)" style="fill: none; stroke: #d55e00; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_24">
+    <g clip-path="url(#pb15407dd08)">
+     <use xlink:href="#m013bbcb9a8" x="100.405183" y="180.43546" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <g clip-path="url(#pb15407dd08)">
+     <use xlink:href="#m46b58fac7f" x="123.296105" y="193.100898" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="patch_9">
+    <path d="M 31.912441 200.700161 
+L 31.912441 172.836197 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 31.912441 200.700161 
+L 220.841575 200.700161 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="31.912441" y="169.836197" transform="rotate(-0 31.912441 169.836197)">Mean residue volume</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 31.912441 259.214485 
+L 220.841575 259.214485 
+L 220.841575 231.350521 
+L 31.912441 231.350521 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 184.538517 259.214485 
+L 184.538517 231.350521 
+" clip-path="url(#pfaf2bc95d2)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #5a5a5a; stroke-width: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_11">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m9f0a962233" x="33.640514" y="259.214485" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- $\mathdefault{−4.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(27.205514 269.646662)">
+       <text>
+        <tspan x="0" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">4</tspan>
+        <tspan x="7.410889" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m9f0a962233" x="83.939848" y="259.214485" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- $\mathdefault{−3.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(77.504848 269.646662)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">3</tspan>
+        <tspan x="7.410889" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m9f0a962233" x="134.239183" y="259.214485" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- $\mathdefault{−1.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(127.804183 269.646662)">
+       <text>
+        <tspan x="0" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+        <tspan x="7.410889" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.53125" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m9f0a962233" x="184.538517" y="259.214485" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(179.988517 269.646662)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="text_26">
+     <!-- $\times\mathdefault{10^{−3}}\mathdefault{}$ -->
+     <g style="fill: #1a1a1a" transform="translate(205.601575 279.174582)">
+      <text>
+       <tspan x="0" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">×</tspan>
+       <tspan x="3.503906" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+       <tspan x="6.84082" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       <tspan x="10.233242" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+       <tspan x="12.685977" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">3</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_7">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="238.949784" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="241.315873" transform="rotate(-0 26.212441 241.315873)">Bacteria</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="251.615222" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="253.981311" transform="rotate(-0 26.212441 253.981311)">Archaea</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_7">
+    <path d="M 125.915561 238.949784 
+L 173.394125 238.949784 
+" clip-path="url(#pfaf2bc95d2)" style="fill: none; stroke: #0072b2; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_8">
+    <path d="M 44.942036 251.615222 
+L 207.811979 251.615222 
+" clip-path="url(#pfaf2bc95d2)" style="fill: none; stroke: #d55e00; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_33">
+    <g clip-path="url(#pfaf2bc95d2)">
+     <use xlink:href="#m013bbcb9a8" x="149.698777" y="238.949784" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="line2d_34">
+    <g clip-path="url(#pfaf2bc95d2)">
+     <use xlink:href="#m46b58fac7f" x="123.737183" y="251.615222" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 31.912441 259.214485 
+L 31.912441 231.350521 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 31.912441 259.214485 
+L 220.841575 259.214485 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="31.912441" y="228.350521" transform="rotate(-0 31.912441 228.350521)">Proline fraction</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_14">
+    <path d="M 31.912441 317.728809 
+L 220.841575 317.728809 
+L 220.841575 289.864845 
+L 31.912441 289.864845 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 97.671756 317.728809 
+L 97.671756 289.864845 
+" clip-path="url(#p29f3051ea3)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #5a5a5a; stroke-width: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_15">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m9f0a962233" x="46.100141" y="317.728809" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- $\mathdefault{−2.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(39.665141 328.160986)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+        <tspan x="3.795898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">2</tspan>
+        <tspan x="7.410889" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="9.216797" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m9f0a962233" x="97.671756" y="317.728809" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(93.121756 328.160986)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m9f0a962233" x="149.24337" y="317.728809" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- $\mathdefault{2.5}$ -->
+      <g style="fill: #1a1a1a" transform="translate(144.69337 328.160986)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">2</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m9f0a962233" x="200.814985" y="317.728809" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- $\mathdefault{5.0}$ -->
+      <g style="fill: #1a1a1a" transform="translate(196.264985 328.160986)">
+       <text>
+        <tspan x="0" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">5</tspan>
+        <tspan x="3.61499" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">.</tspan>
+        <tspan x="5.420898" y="-0.46875" style="font-size: 6.5px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="126.377008" y="338.989111" transform="rotate(-0 126.377008 338.989111)">Pocket − control, per +10 °C</text>
+    </g>
+    <g id="text_35">
+     <!-- $\times\mathdefault{10^{−3}}\mathdefault{}$ -->
+     <g style="fill: #1a1a1a" transform="translate(205.601575 337.688906)">
+      <text>
+       <tspan x="0" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">×</tspan>
+       <tspan x="3.503906" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">1</tspan>
+       <tspan x="6.84082" y="-0.848438" style="font-size: 6px; font-family: 'Liberation Sans'; fill: #1a1a1a">0</tspan>
+       <tspan x="10.233242" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">−</tspan>
+       <tspan x="12.685977" y="-3.06875" style="font-size: 4.2px; font-family: 'Liberation Sans'; fill: #1a1a1a">3</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_9">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="297.464108" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="299.830197" transform="rotate(-0 26.212441 299.830197)">Bacteria</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m2aa8532601" x="31.912441" y="310.129546" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="26.212441" y="312.495635" transform="rotate(-0 26.212441 312.495635)">Archaea</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_9">
+    <path d="M 44.942036 297.464108 
+L 86.243437 297.464108 
+" clip-path="url(#p29f3051ea3)" style="fill: none; stroke: #0072b2; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_10">
+    <path d="M 67.582197 310.129546 
+L 207.811979 310.129546 
+" clip-path="url(#p29f3051ea3)" style="fill: none; stroke: #d55e00; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_42">
+    <g clip-path="url(#p29f3051ea3)">
+     <use xlink:href="#m013bbcb9a8" x="65.365884" y="297.464108" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="line2d_43">
+    <g clip-path="url(#p29f3051ea3)">
+     <use xlink:href="#m46b58fac7f" x="135.880243" y="310.129546" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="patch_15">
+    <path d="M 31.912441 317.728809 
+L 31.912441 289.864845 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 31.912441 317.728809 
+L 220.841575 317.728809 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="31.912441" y="286.864845" transform="rotate(-0 31.912441 286.864845)">Acidic fraction</text>
+   </g>
+  </g>
+  <g id="text_39">
+   <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Liberation Sans', 'Arimo', 'Helvetica', 'Nimbus Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="1.44" y="7.992246" transform="rotate(-0 1.44 7.992246)">The evidence is bacterial</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbeea5cc17b">
+   <rect x="31.912441" y="55.807549" width="188.929134" height="27.863964"/>
+  </clipPath>
+  <clipPath id="p94b8c3a74d">
+   <rect x="31.912441" y="114.321873" width="188.929134" height="27.863964"/>
+  </clipPath>
+  <clipPath id="pb15407dd08">
+   <rect x="31.912441" y="172.836197" width="188.929134" height="27.863964"/>
+  </clipPath>
+  <clipPath id="pfaf2bc95d2">
+   <rect x="31.912441" y="231.350521" width="188.929134" height="27.863964"/>
+  </clipPath>
+  <clipPath id="p29f3051ea3">
+   <rect x="31.912441" y="289.864845" width="188.929134" height="27.863964"/>
+  </clipPath>
+ </defs>
+</svg>

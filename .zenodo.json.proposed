@@ -1,0 +1,18 @@
+{
+  "title": "Thermal adaptation spares the catalytic neighbourhood in bacterial serine proteases",
+  "description": "Analysis pipeline for a study of where on a protein fold thermal adaptation acts. Across 10,674 bacterial and archaeal serine proteases in 1,485 sequence clades, compositional adaptation to growth temperature is absent within about 10 angstroms of the catalytic serine and present in a size- and burial-matched control patch on the same protein.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Surname, A.B."
+    }
+  ],
+  "keywords": [
+    "protein thermostability",
+    "serine protease",
+    "protein language model",
+    "structural bioinformatics",
+    "extremozymes"
+  ]
+}

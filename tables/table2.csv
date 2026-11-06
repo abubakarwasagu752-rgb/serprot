@@ -1,0 +1,11 @@
+Structures,Group,Pfam,Proteins,Clades,Clades with a thermophile,Median OGT (°C),OGT range (°C)
+AlphaFold,S8,PF00082,"6,216",960,187,30,5–106
+AlphaFold,S9,PF00326,"3,332",374,67,30,5–105
+AlphaFold,S1,PF00089,"1,126",153,11,28,4–65
+AlphaFold,Bacteria,—,"10,046","1,404",211,30,4–80
+AlphaFold,Archaea,—,628,88,54,40,22–106
+ESMFold,S8,PF00082,"3,147",256,90,30,7–106
+ESMFold,S9,PF00326,955,61,21,30,5–80
+ESMFold,S1,PF00089,"1,343",74,10,28,4–58
+ESMFold,Bacteria,—,"5,291",370,105,30,4–80
+ESMFold,Archaea,—,154,24,16,40,30–106

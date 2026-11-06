@@ -1,0 +1,78 @@
+# serprot pipeline configuration
+# Every script takes --config (default: config.yaml). Edit paths and cluster-specific values here.
+
+paths:
+  root: .
+  raw: data/raw
+  processed: data/processed
+  runs: runs
+  figures: figures
+  structures: data/structures
+
+seed: 13
+
+# ---------------------------------------------------------------- data
+families:
+  # Pfam accessions used to pull sequences from UniProt (verify with scripts/00_check_access.py)
+  S8: {pfam: PF00082, label: "S8 subtilase"}
+  S9: {pfam: PF00326, label: "S9 prolyl oligopeptidase-type"}
+  S1: {pfam: PF00089, label: "S1 trypsin-like"}
+
+taxa: [2, 2157]            # Bacteria, Archaea (eukaryotic S1 would swamp the set and has no OGT)
+length_range: [100, 1500]
+max_per_family: 60000      # reviewed entries are always kept first, the rest are subsampled
+max_len: 1000              # ESM-2 limit is 1022 tokens; longer sequences are cropped around the catalytic site
+
+ogt:
+  table: data/raw/ogt_table.csv     # columns: taxid (optional), organism, ogt  (e.g. exported from TEMPURA)
+  min_ogt: 0
+  max_ogt: 110
+tm:
+  table: data/raw/tm_table.csv      # optional; columns: accession, tm  (Meltome Atlas / ProThermDB / TmProt sets)
+
+specificity:
+  cleavages: data/raw/cleavages.tsv # columns: protease_acc, window  (8 residues P4 P3 P2 P1 P1' P2' P3' P4'); see README
+  positions: [0, 1, 2, 3, 4, 5]     # window indices used for the profile (P4..P2')
+  min_cleavages: 20                 # proteases with fewer observed cleavages get no specificity label
+  pseudocount: 0.1
+  weight_cap: 200                   # sample weight = min(n, cap) / cap
+
+clustering:
+  id_split: 0.30           # clusters used for held-out splits (strict: no relatives across train/test)
+  id_pairs: 0.50           # clusters used for within-clade comparisons in the trade-off tests
+  coverage: 0.8
+  n_folds: 5
+
+# ---------------------------------------------------------------- model
+esm_model: facebook/esm2_t33_650M_UR50D
+train:
+  epochs: 15
+  batch_size: 32
+  lr_head: 1.0e-3
+  lr_backbone: 2.0e-5
+  unfreeze_last: 4
+  latent_dim: 64
+  hidden_dim: 256
+  dropout: 0.1
+  weight_decay: 0.01
+  patience: 4
+  val_fraction: 0.1
+  steps_per_epoch: 1500
+  max_val: 4000
+  time_budget_hours: 10.0
+  balance_ogt: true        # down-weight the (huge) mesophile mass
+  spec_oversample: 5.0     # sampling weight for proteins that carry a specificity label
+  tm_weight: 0.5
+  spec_weight: 1.0
+  lam_adv: 0.3             # gradient-reversal strength for cross-prediction adversaries
+  lam_dcor: 1.0            # distance-correlation penalty between thermal and specificity subspaces
+  lam_phylum: 0.1          # phylum adversary on both subspaces (set 0 to disable)
+  num_workers: 4
+
+# ---------------------------------------------------------------- structure / attribution
+pocket:
+  shell_angstrom: 8.0      # residues with any atom within this distance of the nucleophilic Ser OG
+  min_plddt: 70
+attribution:
+  top_fraction: 0.10
+  max_proteins_per_family: 400
